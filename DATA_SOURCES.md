@@ -374,6 +374,7 @@ Cross-border transmission capacities between the zones are centralized in the [e
 - Spain ⇄ Spain (Balearic Islands): ["Cometa": 400 MW](https://en.wikipedia.org/wiki/Cometa_(HVDC))
 - Sweden ⇄ Poland: ["SwePol": 600 MW](https://en.wikipedia.org/wiki/SwePol)
 - Ukraine ⇄ Belarus, ⇄ Hungary, ⇉ Poland, ⇄ Moldova, ⇄ Slovakia, ⇄ Romania, ⇄ Russia: [Ukrenergo](https://ua.energy/activity/dispatch-information/transborder-flows/)
+- Sweden ⇄ Finland: ["SE - FI"](https://www.fingrid.fi/contentassets/dfd68fb2392145a2b6d0549a773902c0/cross-border-capacity-study-btw-finland-and-sweden.pdf)
 
 A ⇄ B: bidirectional operation, with power flow either "from A to B" or "from B to A"
 
